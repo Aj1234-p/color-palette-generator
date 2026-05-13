@@ -2,7 +2,7 @@
 
 A browser-based random color palette generator built with **pure HTML, CSS, and JavaScript** — no libraries, no frameworks.
 
-🔗 **Live Demo:** [Click Here](https://Aj1234-p.github.io/color-palette-generator)
+🔗 **Live Demo:** [Click Here](https://github.com/Aj1234-p/color-palette-generator)
 
 ---
 
